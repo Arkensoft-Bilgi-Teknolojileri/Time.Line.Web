@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <NameOfLastUsedPublishProfile>C:\Users\murat\Desktop\Arkensoft\projects\Time.Line.Web\Time.Line.Web\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <TypeScriptCompile Update="ClientApp\src\components\CalculateRemainingTime.tsx">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
+  </ItemGroup>
+</Project>
